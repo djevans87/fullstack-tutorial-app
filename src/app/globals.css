@@ -6,7 +6,6 @@
   --primary: #2563eb;          /* Tailwind blue-600 */
 }
 
-@media (prefers-color-scheme: light) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
