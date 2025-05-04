@@ -16,7 +16,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <body className={`${inter.className} bg-[var(--background)] text-[var(--foreground)]`}>
         <Navbar />
         {children}
-      </body>
-    </html>
-  );
+        </body>
+        </html>
+    );
 }

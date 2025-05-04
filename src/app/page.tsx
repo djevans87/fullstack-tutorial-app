@@ -7,7 +7,7 @@ export default function Home() {
                     Navbar Tutorial
                 </h1>
 
-      </main>
-    </div>
-  );
+            </main>
+        </div>
+    );
 }
